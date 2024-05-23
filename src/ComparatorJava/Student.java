@@ -1,0 +1,12 @@
+package ComparatorJava;
+
+public class Student {
+    String name;
+    int age ;
+    int rollno;
+    Student(String name ,int age,int rollno){
+        this.name=name;
+        this.age=age;
+        this.rollno=rollno;
+    }
+}
